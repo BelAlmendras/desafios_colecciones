@@ -1,2 +1,2 @@
-### Desafios de coleciones en Python para Bootcamp Generation
+### Desafios de colecciones en Python para Bootcamp Generation
 
